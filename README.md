@@ -1,11 +1,15 @@
 Add README file
-Create a review branch
-
-STRUCTURE
+Create a vlada dev branch 
+Create a mariesophie dev branch
 Add client and server folders
 
 In the client 
-Add index.html & styles.css
+    Add index.html & styles.css
+    Add script.js
+============
+
+STRUCTURE
+Add client and server folders
 
 In the server folder 
 Add app.js
