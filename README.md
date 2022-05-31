@@ -1,15 +1,20 @@
 Add README file
 Create a review branch
-Creat a vlada dev branch 
+
+STRUCTURE
 Add client and server folders
 
 In the client 
-    Add index.html & styles.css
+Add index.html & styles.css
 
 In the server folder 
-    Add app.js
-    run npm init -y
-    run npm install express
-    add .gitignore 
-    move node_module to gitignore file 
+Add app.js
+    
+
+INSTALLATION
+In the server folder
+run npm init -y
+run npm install express
+add .gitignore 
+move node_module to gitignore file 
 
